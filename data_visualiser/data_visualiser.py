@@ -7,7 +7,7 @@ March 23, 2020
 
 GOSH FHIR Task Submission
 
-This project makes use of the fhir_parser (Apache License 2.0). 
+This project makes use of the fhir_parser library (available under Apache License 2.0). 
 
 """
 
